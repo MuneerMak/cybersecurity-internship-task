@@ -1,35 +1,35 @@
- Cybersecurity Internship Task
+Cybersecurity Internship Task
 
- Overview
+Overview
 This project demonstrates security assessment and hardening of a web application as part of a cybersecurity internship.
 
- Project Structure
+Project Structure
 ```
-├── app.js                  Main application
-├── logger.js               Winston logging configuration
-├── Week1_Findings.md       Vulnerability assessment report
-├── Security_Checklist.md   Security measures checklist
-├── Final_Report.md         Complete project report
-├── security.log            Security event logs
-└── package.json            Dependencies
+- app.js                  Main application
+- logger.js               Winston logging configuration
+- Week1_Findings.md       Vulnerability assessment report
+- Security_Checklist.md   Security measures checklist
+- Final_Report.md         Complete project report
+- security.log            Security event logs
+- package.json            Dependencies
 ```
 
- Installation
+Installation
 
- Prerequisites
+Prerequisites
 - Node.js (v14 or higher)
 - npm
 
- Setup
+Setup
 ```bash
- Clone repository
+Clone repository
 git clone https://github.com/YOUR_USERNAME/cybersecurity-internship-task.git
 cd cybersecurity-internship-task
 
- Install dependencies
+Install dependencies
 npm install
 
- Run application
+Run application
 node app.js
 ```
 
