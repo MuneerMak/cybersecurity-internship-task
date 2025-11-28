@@ -62,7 +62,7 @@ Visit: http://localhost:3000
 - [Final Report](Final_Report.md)
 
  Video Demonstration
-[Link to video]
+[INTERNSHIP DOC TASKS VIDEO](https://github.com/MuneerMak/cybersecurity-internship-task/blob/main/INTERNSHIP%20DOC%20TASKS%20VIDEO.mp4)
 
  Author
 Muneer Maqsood
@@ -72,61 +72,6 @@ Muneer Maqsood
  License
 This project is for educational purposes only.
 ```
-
----
-
- FINAL CHECKLIST BEFORE SUBMISSION:
-
-  Video:
-- [ ] Recorded and edited
-- [ ] Uploaded to YouTube/Google Drive
-- [ ] Link added to README
-
-  GitHub:
-- [ ] Code uploaded
-- [ ] README.md complete
-- [ ] All documentation files included
-- [ ] .gitignore configured
-- [ ] Repository is public
-
-  Documentation:
-- [ ] Week1_Findings.md
-- [ ] Security_Checklist.md
-- [ ] Final_Report.md
-- [ ] Screenshots included
-- [ ] OWASP ZAP reports
-
-  Code:
-- [ ] All security fixes implemented
-- [ ] Code commented
-- [ ] Application runs without errors
-- [ ] All dependencies in package.json
-
----
-
- SUBMISSION FORMAT:
-
-Email Template:
-```
-Subject: Cybersecurity Internship Task Submission - Muneer Maqsood
-
-Dear [Trainer Name],
-
-I am submitting my completed Cybersecurity Internship Task. Please find below the required deliverables:
-
-1. Video Demonstration: [YouTube/Drive Link]
-2. GitHub Repository: [GitHub Link]
-3. Documentation: All reports included in repository
-
-Project Summary:
-- Identified 5 critical vulnerabilities in Week 1
-- Implemented 5 security measures in Week 2
-- Achieved [X]% reduction in vulnerabilities
-- Created comprehensive documentation and logging
-
-I have successfully completed all three weeks of tasks including vulnerability assessment, security implementation, and final testing.
-
-Thank you for this learning opportunity.
 
 Best regards,
 Muneer Maqsood
